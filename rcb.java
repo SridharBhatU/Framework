@@ -59,12 +59,15 @@ public class ReadFile {
                 System.out.println("There is only 4 foreign Players in the RCB team");
             } else {
                 System.out.println("There is more than 4  foreign Players in the RCB team");
+				
             }
 
 
         } catch (Exception e) {
+			
             e.printStackTrace();
-            System.out.println("Ee Sala Cup Namde");
+			System.out.println("EE sala cup namde");
+           
 
 
 
